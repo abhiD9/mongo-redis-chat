@@ -1,5 +1,7 @@
 ## Hello there, Welcome to the MongoChat app.⚡ 
 
+![alt text](https://mongo-mern.s3.ap-south-1.amazonaws.com/5.jpg)
+
 ### Stack used: React Redis Express MongoDB
 
 
